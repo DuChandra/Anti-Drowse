@@ -55,7 +55,7 @@ These results suggest that YOLOv7 is not suitable for real-time drowsiness detec
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ParthJohri/Drowsiness_Detection_Using_YOLOv7.git
+   git clone https://github.com/DuChandra/Anti-Drowse.git
    ```
 2. Navigate to the project directory:
    ```sh
