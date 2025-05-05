@@ -22,29 +22,29 @@ The YOLOv7 model was trained and tested over 25 epochs, yielding the following r
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/ParthJohri/Drowsiness_Detection_Using_YOLOv7/blob/main/results/F1_curve.png" alt="F1 Curve" style="width: 400px;">
+      <img src="https://github.com/DuChandra/Anti-Drowse/blob/master/results/F1_curve.png" alt="F1 Curve" style="width: 400px;">
       <br>F1 Curve
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/ParthJohri/Drowsiness_Detection_Using_YOLOv7/blob/main/results/PR_curve.png" alt="PR Curve" style="width: 400px;">
+      <img src="https://github.com/DuChandra/Anti-Drowse/blob/master/results/PR_curve.png" alt="PR Curve" style="width: 400px;">
       <br>PR Curve
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/ParthJohri/Drowsiness_Detection_Using_YOLOv7/blob/main/results/P_curve.png" alt="Precision Curve" style="width: 400px;">
+      <img src="https://github.com/DuChandra/Anti-Drowse/blob/master/results/P_curve.png" alt="Precision Curve" style="width: 400px;">
       <br>Precision Curve
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/ParthJohri/Drowsiness_Detection_Using_YOLOv7/blob/main/results/R_curve.png" alt="Recall Curve" style="width: 400px;">
+      <img src="https://github.com/DuChandra/Anti-Drowse/blob/master/results/R_curve.png" alt="Recall Curve" style="width: 400px;">
       <br>Recall Curve
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/ParthJohri/Drowsiness_Detection_Using_YOLOv7/blob/main/results/confusion_matrix.png" alt="Confusion Matrix" style="width: 400px;">
+      <img src="https://github.com/DuChandra/Anti-Drowse/blob/master/results/confusion_matrix.png" alt="Confusion Matrix" style="width: 400px;">
       <br>Confusion Matrix
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/ParthJohri/Drowsiness_Detection_Using_YOLOv7/blob/main/results/results.png" alt="Results" style="width: 400px;">
+      <img src="https://github.com/DuChandra/Anti-Drowse/blob/master/results/results.png" alt="Results" style="width: 400px;">
       <br>Results
     </td>
   </tr>
